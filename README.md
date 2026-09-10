@@ -1,0 +1,2 @@
+# vezba1
+ljupcoTS
